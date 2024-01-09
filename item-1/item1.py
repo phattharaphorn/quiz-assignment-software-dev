@@ -8,4 +8,4 @@ def count_ways(n):
 
     return b
 
-print(count_ways(20)) 
+print(count_ways(8)) 
